@@ -25,6 +25,6 @@ P.S. Hypothetically if you reach a certain amount of digits, the values won't fi
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 My most prominent takeaways from this projects are the following:
--Using JFrame to make graphics (making the cards, boards, etc. from scratch)
--Bounds/collision detection between cards and walls
--Using threads to create animation (movement of cards)
+- Using JFrame to make graphics (making the cards, boards, etc. from scratch)
+- Bounds/collision detection between cards and walls
+- Using threads to create animation (movement of cards)
