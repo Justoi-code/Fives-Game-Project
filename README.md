@@ -7,7 +7,7 @@ I was in charge of the game itself, while my other groupmates were in charge of 
 INSTRUCTIONS FOR INSTALLATION:
 --------------------------------------------------------------------------------------------------------------------------------------------
 1. Install BlueJ for your machine from this link: https://bluej.org/
-2. Download the files from master and store the files (README and code.txt not necessary) into a folder.
+2. Download the files from master and store the files (README, code.txt, and applet png not necessary) into a folder.
 4. Open BlueJ and open project (Ctrl + O) and open the folder you created with files in Step 2.
 5. Right click the module that appears that says "Game" and run "void main(String[] args)".
 6. Enjoy!
