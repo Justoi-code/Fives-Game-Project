@@ -22,6 +22,7 @@ Arrow Key Control - UP, DOWN, LEFT, and RIGHT arrow keys control the movement of
 Objective - Match "Two" cards and "Three" cards together to make a "Five" card. From there, continue to match cards of the similar value to make bigger and bigger cards (example: you would then try to merge a "Five" and another "Five" card to make a "Ten" card and so on). Getting to higher cards means your board will continue to get more cluttered. When you run out of spaces on your board, you lose! 
 
 P.S. Hypothetically if you reach a certain amount of digits, the values won't fit the cards anymore. I don't anticipate anyone will reach values that big, but if you see this bug kudos to you! You reached a really high number!
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 My most prominent takeaways from this projects are the following:
