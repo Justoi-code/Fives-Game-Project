@@ -1,5 +1,5 @@
 # Fives-Game-Project
-Hello, this is my contribution to an end of 1st semester group project I made in Parkway West High School in my Advanced Software Development Class. See the PNG attached for a preview.
+Hello, this is my contribution to an end of 1st semester group project I made in Parkway West High School in my Advanced Software Development Class. **See the PNG attached for a preview.**
 I was in charge of the game itself, while my other groupmates were in charge of menus and statistics (shoutout to Jason and Quinn!). That final version (with the menus and statistics) is not going to be made available on this repo.
 
 **SPECIAL NOTE: This project was made in the BlueJ IDE for Java so if you intend to try it yourself I recommend following the instructions for installation below. I will also include code.txt that contains all the code in text form if you just want to look at that. Lastly, please be mindful that there is a lot of garbage code I just commented out; they serve no importance to the game in its current state**
