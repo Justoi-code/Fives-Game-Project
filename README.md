@@ -1,5 +1,5 @@
 # Fives-Game-Project
-Hello, this is my contribution to an end of 1st semester group project I made in Parkway West High School in my Advanced Software Development Class.
+Hello, this is my contribution to an end of 1st semester group project I made in Parkway West High School in my Advanced Software Development Class. See the PNG attached for a preview.
 I was in charge of the game itself, while my other groupmates were in charge of menus and statistics (shoutout to Jason and Quinn!). That final version (with the menus and statistics) is not going to be made available on this repo.
 
 **SPECIAL NOTE: This project was made in the BlueJ IDE for Java so if you intend to try it yourself I recommend following the instructions for installation below. I will also include code.txt that contains all the code in text form if you just want to look at that. Lastly, please be mindful that there is a lot of garbage code I just commented out; they serve no importance to the game in its current state**
@@ -17,7 +17,7 @@ RULES/CONTROLS
 --------------------------------------------------------------------------------------------------------------------------------------------
 General Idea: If you've played the popular webgame 2048 or the less popular but personal favorite webgame Threes, it's basically a recreation of that genre of game (Much more closely related to Threes).
 
-Arrow Key Control - UP, DOWN, LEFT, and RIGHT arrow keys control the movement of the cards displayed on the screen (see the social preview for a quick peek at what the applet looks like). For example, pressing the left arrow key 
+Arrow Key Control - UP, DOWN, LEFT, and RIGHT arrow keys control the movement of the cards displayed on the screen. For example, pressing the left arrow key moves all the cards to the left, and so on for the other arrow keys.
 
 Objective - Match "Two" cards and "Three" cards together to make a "Five" card. From there, continue to match cards of the similar value to make bigger and bigger cards (example: you would then try to merge a "Five" and another "Five" card to make a "Ten" card and so on). Getting to higher cards means your board will continue to get more cluttered. When you run out of spaces on your board, you lose! 
 
